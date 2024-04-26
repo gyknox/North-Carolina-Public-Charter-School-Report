@@ -15,7 +15,7 @@ This is a new line
 This is a list   
 * Info   
 * Info   
-* Info   
+* Info
 This is another list   
 1. Item 1   
 2. Item 2   
