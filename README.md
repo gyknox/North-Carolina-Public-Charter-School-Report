@@ -1,2 +1,11 @@
 # North-Carolina-Public-Charter-School-Report
-## modifying file
+## overview
+---   
+
+## descriptions
+---   
+## approaching   
+---
+## report   
+![my report picture](./Report.png)   
+## conclusion 
